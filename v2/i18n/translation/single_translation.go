@@ -1,7 +1,7 @@
 package translation
 
 import (
-	"github.com/simtropolis/go-i18n/i18n/language"
+	"github.com/simtropolis/go-i18n/v2/i18n/language"
 )
 
 type singleTranslation struct {

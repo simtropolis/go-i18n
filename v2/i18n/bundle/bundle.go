@@ -11,8 +11,8 @@ import (
 	"sync"
 	"unicode"
 
-	"github.com/simtropolis/go-i18n/i18n/language"
-	"github.com/simtropolis/go-i18n/i18n/translation"
+	"github.com/simtropolis/go-i18n/v2/i18n/language"
+	"github.com/simtropolis/go-i18n/v2/i18n/translation"
 	toml "github.com/pelletier/go-toml"
 	"gopkg.in/yaml.v2"
 )
